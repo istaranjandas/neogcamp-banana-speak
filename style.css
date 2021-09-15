@@ -1,0 +1,13 @@
+textarea{
+    width: 80%;
+    height: 10vh;
+    margin-bottom: 3rem;
+}
+
+#output{
+    border: 1px solid black;
+    width: 80%;
+    height: 10vh;
+    padding-left: 0.12rem ;
+    margin-top: 1.5rem;
+}
